@@ -1,168 +1,150 @@
-<!-- HERO WAVE HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     HERO WAVE HEADER                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,25:5AC8F5,50:BF5AF2,75:FF375F,100:FF9F0A&height=320&section=header&text=Sri%20Charan%20Goud&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Software%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Builder%20%E2%80%A2%20Creator&descSize=18&descAlignY=62&descColor=ffffffaa" />
+
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,40:BF5AF2,100:FF375F&customColorList=0,2,2,5,30&height=300&section=header&text=Sri%20Charan%20Goud&fontSize=54&fontColor=F5F5F7&fontAlignY=42&animation=twinkling&desc=Software%20Engineer%20%C2%B7%20Founder%20%C2%B7%20Builder&descSize=20&descAlignY=62&descColor=86868B)](https://www.sricharan.me)
+<br/>
 
-<!-- PROFILE VIEWS -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=28&duration=2500&pause=600&color=0A84FF&center=true&vCenter=true&random=false&width=680&height=60&lines=%E2%8C%98+Full+Stack+Developer;%E2%9A%A1+Founder+%40+Hoverly+%26+VidTing;%F0%9F%A4%96+AI+%26+ML+Engineer;%F0%9F%8F%86+Top+1%25+Developer;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%9A%80+Ships+Things+That+Actually+Work.)](https://www.sricharan.me)
+
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=Sricharan-2690&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/Sricharan-2690)
-
-<br />
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=300&size=26&duration=2800&pause=700&color=0A84FF&center=true&vCenter=true&width=640&height=52&lines=Full+Stack+Developer;Founder+%40+Hoverly+%26+VidTing;AI+%26+ML+Engineer;Top+1%25+Developer;Open+Source+Contributor;Ships+Things+That+Actually+Work.)](https://www.sricharan.me)
-
-<br />
-
-*I don't just write code. I write code that moves.*
-
-<br />
-
-<!-- SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-sricharan.me-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.sricharan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-500%2B_Connections-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-charan-katamoni-00830a290/)
-[![Email](https://img.shields.io/badge/Email_%3C2hr_Response-katamonisricharan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katamonisricharan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-50%2B_Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sricharan-2690)
-
-[![YouTube](https://img.shields.io/badge/YouTube-100K%2B_Views-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CharansInsights/videos)
-[![Instagram](https://img.shields.io/badge/Instagram-80K%2B_Views-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sricharan_2690/)
-[![Resume](https://img.shields.io/badge/Resume-Updated_2026-BF5AF2?style=for-the-badge&logo=googledrive&logoColor=white)](https://www.sricharan.me/Resume_Dec__Copy.pdf)
+[![GitHub followers](https://img.shields.io/github/followers/Sricharan-2690?style=for-the-badge&color=BF5AF2&logo=github&label=FOLLOWERS)](https://github.com/Sricharan-2690?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Sricharan-2690?style=for-the-badge&color=FF9F0A&logo=github&label=TOTAL+STARS)](https://github.com/Sricharan-2690)
 
 </div>
 
-<br /><br />
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A84FF22,100:BF5AF222&height=100&text=Student%20%E2%80%A2%20Engineer%20%E2%80%A2%20Founder%20%E2%80%A2%20Creator%20%E2%80%A2%20Entrepreneur&fontSize=17&fontColor=86868B&animation=fadeIn&fontAlignY=50" width="100%"/>
+
+</div>
 
 ---
 
-<!-- STATS BAR -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    SOCIAL LINKS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+### 🔗 Find Me
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sricharan.me-000000?style=for-the-badge&logoColor=white)](https://www.sricharan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-500%2B%20Connections-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sri-charan-katamoni-00830a290/)
+[![Email](https://img.shields.io/badge/Gmail-%3C2hr%20Response-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:katamonisricharan@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-50%2B%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sricharan-2690)
+[![YouTube](https://img.shields.io/badge/YouTube-100K%2B%20Views-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CharansInsights/videos)
+[![Instagram](https://img.shields.io/badge/Instagram-80K%2B%20Views-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sricharan_2690/)
+[![Resume](https://img.shields.io/badge/📄%20Resume-Updated%202026-BF5AF2?style=for-the-badge&logoColor=white)](https://www.sricharan.me/Resume_Dec__Copy.pdf)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   APPLE STATS SPEC SHEET                     -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════╦═══════════════╦════════════╦════════════╦══════════════╦════════════╗
+║  TOP 1%  ║  10+ CLIENTS  ║  99.9% ✓  ║  50+ REPOS ║  100K VIEWS  ║ 2 VENTURES ║
+║          ║               ║            ║            ║              ║            ║
+║ Developer║  Freelance    ║  Success   ║  GitHub    ║  YouTube +   ║  Hoverly & ║
+║   Rank   ║  Projects     ║   Rate     ║  Shipped   ║  Instagram   ║  VidTing   ║
+╚══════════╩═══════════════╩════════════╩════════════╩══════════════╩════════════╝
+```
+
+*The numbers speak. The code speaks louder.*
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      ABOUT ME                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp;Who.
+
+</div>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="20">
 <tr>
-<td align="center" style="padding: 0 20px;">
+<td width="60%" valign="top">
 
-**`TOP 1%`**
-<br/>
-<sub>Developer Rank</sub>
+### 🧠 The Story
 
-</td>
-<td align="center"><sub>│</sub></td>
-<td align="center" style="padding: 0 20px;">
+> *Student by day. Founder by night.*
+> *Engineer at every hour in between.*
 
-**`10+`**
-<br/>
-<sub>Happy Clients</sub>
+From cracking a **paid internship in 3rd year** to shipping **LeetCollege** — a real-time platform with college-wide DSA rankings — every line of code is part of a larger story.
 
-</td>
-<td align="center"><sub>│</sub></td>
-<td align="center" style="padding: 0 20px;">
+Co-founder of **Hoverly** (web agency) and **VidTing** (content venture). **10+ freelance clients. 100K+ content views.** Still shipping.
 
-**`99.9%`**
-<br/>
-<sub>Success Rate</sub>
+I don't write features. I build experiences. Every project has a user on the other end — and that user deserves something that works *and* feels alive.
 
 </td>
-<td align="center"><sub>│</sub></td>
-<td align="center" style="padding: 0 20px;">
+<td width="40%" valign="top" align="center">
 
-**`50+`**
+### 📡 Live Status
+
 <br/>
-<sub>GitHub Repos</sub>
 
-</td>
-<td align="center"><sub>│</sub></td>
-<td align="center" style="padding: 0 20px;">
+![Now](https://img.shields.io/badge/🟢%20NOW-AI%20%26%20ML%20Intern%20%40%20IncuX%20Ai-30D158?style=for-the-badge&labelColor=0D1117)
 
-**`100K+`**
-<br/>
-<sub>Content Views</sub>
+![Build](https://img.shields.io/badge/🔵%20BUILDING-Next.js%20Portfolio%20v2-0A84FF?style=for-the-badge&labelColor=0D1117)
 
-</td>
-<td align="center"><sub>│</sub></td>
-<td align="center" style="padding: 0 20px;">
+![Open](https://img.shields.io/badge/🟣%20OPEN%20TO-Internships%20%C2%B7%20Freelance-BF5AF2?style=for-the-badge&labelColor=0D1117)
 
-**`2`**
-<br/>
-<sub>Ventures Founded</sub>
+![Loc](https://img.shields.io/badge/📍%20BASED-Hyderabad%2C%20India-FF9F0A?style=for-the-badge&labelColor=0D1117)
+
+![Mail](https://img.shields.io/badge/✉️%20RESPONSE-%3C2%20Hours-EA4335?style=for-the-badge&labelColor=0D1117)
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<sub>*The numbers speak. The code speaks louder.*</sub>
-
-</div>
-
-<br /><br />
-
 ---
 
-<!-- ABOUT -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      EXPERIENCE                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<sub>**ABOUT**</sub>
-
-## Who.
+## 💼 Journey.
 
 </div>
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="55%" valign="top" align="left">
-
-**Student by day. Founder by night.**
-**Engineer at every hour in between.**
-
-From cracking a paid internship in 3rd year to shipping LeetCollege — a platform with real-time college rankings — every line of code is part of a larger story.
-
-Co-founder of Hoverly (web agency) and VidTing (content venture). 10+ freelance clients. 100K+ content views. Still shipping.
-
-</td>
-<td width="10%"></td>
-<td width="35%" valign="top" align="left">
-
-![Status](https://img.shields.io/badge/🟢_Currently-AI_%26_ML_Intern_%40_IncuX_Ai-30D158?style=flat-square&labelColor=111111)
-
-![Building](https://img.shields.io/badge/🔵_Building-Next.js_Portfolio_v2-0A84FF?style=flat-square&labelColor=111111)
-
-![Open To](https://img.shields.io/badge/🟣_Open_To-Internships_·_Freelance_·_Collabs-BF5AF2?style=flat-square&labelColor=111111)
-
-![Location](https://img.shields.io/badge/📍_Location-Hyderabad,_India-FF9F0A?style=flat-square&labelColor=111111)
-
-</td>
-</tr>
-</table>
-</div>
-
-<br /><br />
-
----
-
-<!-- EXPERIENCE -->
-<div align="center">
-
-<sub>**EXPERIENCE**</sub>
-
-## Journey.
-
-<br/>
-
-<table border="0" cellspacing="12" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="16">
 <tr>
 <td width="50%" valign="top">
 
-<div align="left" style="border-left: 3px solid #0A84FF; padding-left: 16px;">
-
-![Status](https://img.shields.io/badge/COMPLETED-✅-30D158?style=flat-square)
-
-**Full-Stack Developer Intern**
-**The TryItFirst Labs**
-
-`Oct 2025 – Dec 2025`
-
-Built full-stack features. Real product. Real users.
+```
+┌─────────────────────────────────────┐
+│  🔵  FULL-STACK DEVELOPER INTERN    │
+│      The TryItFirst Labs            │
+│      Oct 2025 → Dec 2025           │
+│                                     │
+│  Built full-stack features.         │
+│  Real product. Real users.          │
+│                    ✅ COMPLETED     │
+└─────────────────────────────────────┘
+```
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -170,202 +152,245 @@ Built full-stack features. Real product. Real users.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
-</div>
-
 </td>
 <td width="50%" valign="top">
 
-<div align="left" style="border-left: 3px solid #BF5AF2; padding-left: 16px;">
-
-![Status](https://img.shields.io/badge/CURRENT-🟢_LIVE-BF5AF2?style=flat-square)
-
-**AI & ML Intern**
-**IncuX Ai**
-
-`Feb 2026 – Apr 2026`
-
-ML models, data pipelines, AI-powered solutions.
+```
+┌─────────────────────────────────────┐
+│  🟣  AI & ML INTERN                 │
+│      IncuX Ai                       │
+│      Feb 2026 → Apr 2026           │
+│                                     │
+│  ML models, data pipelines,         │
+│  AI-powered solutions.              │
+│                🟢 CURRENT · LIVE    │
+└─────────────────────────────────────┘
+```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Machine_Learning-FF9F0A?style=flat-square&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-BF5AF2?style=flat-square&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-FF9F0A?style=flat-square)
+![DL](https://img.shields.io/badge/Deep_Learning-BF5AF2?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-</div>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<br /><br />
-
 ---
 
-<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<sub>**TECH STACK**</sub>
-
-## Arsenal.
+## ⚡ Arsenal.
 
 <br/>
 
-![Frontend](https://img.shields.io/badge/FRONTEND-0A84FF?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/────────────────%20FRONTEND%20────────────────-0A84FF?style=for-the-badge" />
 
-[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark)](https://www.sricharan.me)
+<br/><br/>
 
-<br/>
-
-![Backend](https://img.shields.io/badge/BACKEND-5AC8F5?style=flat-square&logoColor=white)
-
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,mongodb,supabase&theme=dark)](https://www.sricharan.me)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF375F?style=flat-square&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket_Programming-010101?style=flat-square&logo=socket.io&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark&perline=7)](https://www.sricharan.me)
 
 <br/>
 
-![DevOps](https://img.shields.io/badge/CLOUD_%26_DEVOPS-FF9F0A?style=flat-square&logoColor=white)
+![React](https://img.shields.io/badge/React-95%25-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JS](https://img.shields.io/badge/JavaScript-93%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-96%25-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-92%25-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-90%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Next](https://img.shields.io/badge/Next.js-90%25-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-88%25-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-[![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify&theme=dark)](https://www.sricharan.me)
+<br/>
 
+<img src="https://img.shields.io/badge/────────────────%20BACKEND%20────────────────-5AC8F5?style=for-the-badge" />
+
+<br/><br/>
+
+[![Skills](https://skillicons.dev/icons?i=nodejs,express,mysql,prisma,mongodb,supabase,fastapi&theme=dark&perline=7)](https://www.sricharan.me)
+
+<br/>
+
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF375F?style=flat-square)
+![Socket](https://img.shields.io/badge/Socket_Programming-5AC8F5?style=flat-square)
+
+<br/>
+
+<img src="https://img.shields.io/badge/──────────%20CLOUD%20%26%20DEVOPS%20──────────-FF9F0A?style=for-the-badge" />
+
+<br/><br/>
+
+[![Skills](https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify&theme=dark&perline=6)](https://www.sricharan.me)
+
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 <br/>
 
-![AI](https://img.shields.io/badge/AI_%2F_ML-BF5AF2?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/────────────────%20AI%20%2F%20ML%20────────────────-BF5AF2?style=for-the-badge" />
 
-[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark)](https://www.sricharan.me)
+<br/><br/>
 
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=dark&perline=4)](https://www.sricharan.me)
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![GenAI](https://img.shields.io/badge/Generative_AI-BF5AF2?style=flat-square&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HF](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative_AI-BF5AF2?style=flat-square)
 
 <br/>
 
-![Systems](https://img.shields.io/badge/SYSTEMS_%26_CS-FF9F0A?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/──────────%20SYSTEMS%20%26%20CS%20──────────-FF9F0A?style=for-the-badge" />
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Pthreads](https://img.shields.io/badge/Pthreads-FF9F0A?style=flat-square&logoColor=white)
-![LRU Cache](https://img.shields.io/badge/LRU_Caching-FF9F0A?style=flat-square&logoColor=white)
-![Socket](https://img.shields.io/badge/Socket_Programming-FF9F0A?style=flat-square&logoColor=white)
-![Semaphores](https://img.shields.io/badge/Semaphores-FF9F0A?style=flat-square&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading-FF9F0A?style=flat-square&logoColor=white)
+<br/><br/>
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Pthreads](https://img.shields.io/badge/Pthreads-FF9F0A?style=for-the-badge)
+![LRU](https://img.shields.io/badge/LRU_Cache-FF9F0A?style=for-the-badge)
+![Socket](https://img.shields.io/badge/Socket_Programming-FF9F0A?style=for-the-badge)
+![Semaphores](https://img.shields.io/badge/Semaphores-FF9F0A?style=for-the-badge)
+![MT](https://img.shields.io/badge/Multithreading-FF9F0A?style=for-the-badge)
 
 <br/>
 
-![Tools](https://img.shields.io/badge/TOOLS-86868B?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/────────────────%20TOOLS%20────────────────-86868B?style=for-the-badge" />
 
-[![Skills](https://skillicons.dev/icons?i=vscode,figma,postman,linux&theme=dark)](https://www.sricharan.me)
+<br/><br/>
 
-![Spline 3D](https://img.shields.io/badge/Spline_3D-000000?style=flat-square&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=vscode,figma,postman,linux&theme=dark&perline=4)](https://www.sricharan.me)
+
+&nbsp;
+![Spline](https://img.shields.io/badge/Spline_3D-000000?style=flat-square&logoColor=white)
 ![Shadcn](https://img.shields.io/badge/Shadcn_UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
 
 </div>
 
-<br /><br />
-
 ---
 
-<!-- PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       PROJECTS                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<sub>**PROJECTS**</sub>
-
-## Work.
+## 🚀 Work.
 
 <br/>
 
-<!-- FEATURED ROW -->
-<table border="0" cellspacing="12" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A84FF22,100:5AC8F522&height=55&text=%E2%AD%90%20Featured%20Projects&fontSize=18&fontColor=F5F5F7&animation=fadeIn" width="100%"/>
+
+<br/><br/>
+
+<table border="0" width="100%" cellspacing="12">
 <tr>
 <td width="50%" align="center" valign="top">
 
-[![TryOn](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=TryOn-Website-TryItFirstLabs&theme=transparent&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=86868B&icon_color=0A84FF)](https://github.com/Sricharan-2690/TryOn-Website-TryItFirstLabs)
+[![TryOn](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=TryOn-Website-TryItFirstLabs&theme=transparent&hide_border=true&bg_color=0D1117&title_color=0A84FF&text_color=86868B&icon_color=0A84FF&border_radius=16)](https://github.com/Sricharan-2690/TryOn-Website-TryItFirstLabs)
 
 *"Try before you buy. In real time."*
 
+[![Live](https://img.shields.io/badge/🌐_LIVE-0A84FF?style=for-the-badge)](https://github.com/Sricharan-2690/TryOn-Website-TryItFirstLabs)
+[![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/Sricharan-2690/TryOn-Website-TryItFirstLabs)
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square)
 
 </td>
 <td width="50%" align="center" valign="top">
 
-[![LeetCollege](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=dev-leaderboard&theme=transparent&hide_border=true&bg_color=00000000&title_color=30D158&text_color=86868B&icon_color=30D158)](https://github.com/Sricharan-2690/dev-leaderboard)
+[![LeetCollege](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=dev-leaderboard&theme=transparent&hide_border=true&bg_color=0D1117&title_color=30D158&text_color=86868B&icon_color=30D158&border_radius=16)](https://github.com/Sricharan-2690/dev-leaderboard)
 
 *"Your college. Your rank. Real time."*
 
+[![Live](https://img.shields.io/badge/🌐_LIVE-30D158?style=for-the-badge)](https://leetcollege.vercel.app)
+[![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/Sricharan-2690/dev-leaderboard)
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<!-- GRID ROW 1 -->
-<table border="0" cellspacing="12" width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-[![NotesShare](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=grad-grove&theme=transparent&hide_border=true&bg_color=00000000&title_color=BF5AF2&text_color=86868B&icon_color=BF5AF2)](https://github.com/Sricharan-2690/grad-grove)
+[![NotesShare](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=grad-grove&theme=transparent&hide_border=true&bg_color=0D1117&title_color=BF5AF2&text_color=86868B&icon_color=BF5AF2&border_radius=16)](https://github.com/Sricharan-2690/grad-grove)
 
 *"Shared knowledge. Live sync. Zero friction."*
 
+[![Live](https://img.shields.io/badge/🌐_LIVE-BF5AF2?style=for-the-badge)](https://notes-share-delta.vercel.app)
+[![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/Sricharan-2690/grad-grove)
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" align="center" valign="top">
 
-[![Hoverly](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=Hoverly-Spline-3d-website-&theme=transparent&hide_border=true&bg_color=00000000&title_color=5AC8F5&text_color=86868B&icon_color=5AC8F5)](https://github.com/Sricharan-2690/Hoverly-Spline-3d-website-)
+[![Hoverly](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=Hoverly-Spline-3d-website-&theme=transparent&hide_border=true&bg_color=0D1117&title_color=5AC8F5&text_color=86868B&icon_color=5AC8F5&border_radius=16)](https://github.com/Sricharan-2690/Hoverly-Spline-3d-website-)
 
 *"An agency site that sells itself."*
 
+[![Live](https://img.shields.io/badge/🌐_LIVE-5AC8F5?style=for-the-badge)](https://hoverly-spline-3d-website.vercel.app)
+[![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/Sricharan-2690/Hoverly-Spline-3d-website-)
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Spline 3D](https://img.shields.io/badge/Spline_3D-000000?style=flat-square&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline_3D-000000?style=flat-square)
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<!-- GRID ROW 2 -->
-<table border="0" cellspacing="12" width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
 
-[![ProxyServer](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=MultiThreadedProxyServer&theme=transparent&hide_border=true&bg_color=00000000&title_color=FF9F0A&text_color=86868B&icon_color=FF9F0A)](https://github.com/Sricharan-2690/MultiThreadedProxyServer)
+[![Proxy](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=MultiThreadedProxyServer&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF9F0A&text_color=86868B&icon_color=FF9F0A&border_radius=16)](https://github.com/Sricharan-2690/MultiThreadedProxyServer)
 
 *"Raw C. Zero dependencies. Full performance."*
 
+[![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/Sricharan-2690/MultiThreadedProxyServer)
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Pthreads](https://img.shields.io/badge/Pthreads-FF9F0A?style=flat-square)
-![LRU](https://img.shields.io/badge/LRU_Caching-FF9F0A?style=flat-square)
+![LRU](https://img.shields.io/badge/LRU_Cache-FF9F0A?style=flat-square)
 ![Sockets](https://img.shields.io/badge/Sockets-FF9F0A?style=flat-square)
 
 </td>
 <td width="50%" align="center" valign="top">
 
-[![SortingVisualizer](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=Sorting-Visualizer&theme=transparent&hide_border=true&bg_color=00000000&title_color=FF375F&text_color=86868B&icon_color=FF375F)](https://github.com/Sricharan-2690/Sorting-Visualizer)
+[![Sort](https://github-readme-stats.vercel.app/api/pin/?username=Sricharan-2690&repo=Sorting-Visualizer&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF375F&text_color=86868B&icon_color=FF375F&border_radius=16)](https://github.com/Sricharan-2690/Sorting-Visualizer)
 
 *"Every algorithm, rendered in motion."*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+[![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/Sricharan-2690/Sorting-Visualizer)
+
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -375,101 +400,103 @@ ML models, data pipelines, AI-powered solutions.
 
 <br/>
 
-[![View All Projects](https://img.shields.io/badge/View_All_Projects_→_sricharan.me%2Fprojects-0A84FF?style=for-the-badge&logo=safari&logoColor=white)](https://www.sricharan.me/projects)
+[![All Projects](https://img.shields.io/badge/🚀%20View%20All%20Projects%20→%20sricharan.me%2Fprojects-0A84FF?style=for-the-badge&logoColor=white)](https://www.sricharan.me/projects)
 
 </div>
 
-<br /><br />
-
 ---
 
-<!-- ACHIEVEMENTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ACHIEVEMENTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<sub>**ACHIEVEMENTS**</sub>
+## 🏆 Built Different.
 
-## Built Different.
+</div>
 
-<br/>
-
-<table border="0" cellspacing="12" width="100%">
+<table border="0" width="100%" cellspacing="8">
 <tr>
 <td width="50%" valign="top">
-<div align="left" style="border-left: 3px solid #FF375F; padding-left: 16px;">
 
-**⚡ Founder · VidTing & Hoverly**
-
-Two ventures built from zero.
-
-![VidTing](https://img.shields.io/badge/VidTing-Content_%26_Digital_Venture-FF375F?style=flat-square)
+```
+⚡ FOUNDER · VIDTING & HOVERLY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Two ventures. Built from zero.
+Strategy. Execution. Real clients.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+![VidTing](https://img.shields.io/badge/VidTing-Content_%26_Digital-FF375F?style=flat-square)
 ![Hoverly](https://img.shields.io/badge/Hoverly-Web_Agency-FF375F?style=flat-square)
 
-</div>
 </td>
 <td width="50%" valign="top">
-<div align="left" style="border-left: 3px solid #0A84FF; padding-left: 16px;">
 
-**🔥 Cracked Internship · 3rd Year**
+```
+🔥 CRACKED INTERNSHIP · 3RD YEAR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3-month paid role at TryItFirst.
+Earned, not given.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+![Intern](https://img.shields.io/badge/TryItFirst_Labs-Full_Stack_Intern-0A84FF?style=flat-square)
+![Intern2](https://img.shields.io/badge/IncuX_Ai-AI_%26_ML_Intern-BF5AF2?style=flat-square)
 
-3-month paid role. Earned, not given.
-
-![Internship](https://img.shields.io/badge/TryItFirst_Labs-Full_Stack_Intern-0A84FF?style=flat-square)
-
-</div>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<div align="left" style="border-left: 3px solid #30D158; padding-left: 16px; padding-top: 16px;">
 
-**🎯 10+ Clients · 99.9% Rate**
+```
+🎯 10+ CLIENTS · 99.9% RATE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Real clients. Delivered on time.
+Zero refunds. Zero excuses.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+![Freelance](https://img.shields.io/badge/Freelance-10%2B_Delivered-30D158?style=flat-square)
+![Rate](https://img.shields.io/badge/Success_Rate-99.9%25-30D158?style=flat-square)
 
-Real clients. Real results.
-
-![Freelance](https://img.shields.io/badge/Freelance-10%2B_Projects_Delivered-30D158?style=flat-square)
-
-</div>
 </td>
 <td width="50%" valign="top">
-<div align="left" style="border-left: 3px solid #BF5AF2; padding-left: 16px; padding-top: 16px;">
 
-**📡 100K+ Views · Content Creator**
+```
+📡 100K+ VIEWS · CONTENT CREATOR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+YouTube + Instagram.
+Knowledge = Leverage.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+![YT](https://img.shields.io/badge/YouTube-100K%2B_Views-FF0000?style=flat-square&logo=youtube)
+![IG](https://img.shields.io/badge/Instagram-80K%2B_Views-E1306C?style=flat-square&logo=instagram)
 
-YouTube + Instagram. Knowledge = Leverage.
-
-![YouTube](https://img.shields.io/badge/YouTube-%40CharansInsights-BF5AF2?style=flat-square&logo=youtube)
-
-</div>
 </td>
 </tr>
 </table>
-
-</div>
-
-<br /><br />
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<sub>**GITHUB**</sub>
-
-## Numbers.
+## 📊 Numbers.
 
 <br/>
 
-<!-- ROW 1: Stats + Streak -->
-<table border="0" cellspacing="12" width="100%">
+<table border="0" width="100%" cellspacing="12">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sricharan-2690&show_icons=true&theme=transparent&hide_border=true&icon_color=0A84FF&title_color=F5F5F7&text_color=86868B&bg_color=00000000&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/Sricharan-2690)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Sricharan-2690&show_icons=true&theme=transparent&hide_border=true&icon_color=0A84FF&title_color=F5F5F7&text_color=86868B&bg_color=0D1117&count_private=true&include_all_commits=true&rank_icon=github&border_radius=16)](https://github.com/Sricharan-2690)
 
 </td>
-<td width="50%" align="center" valign="top">
+<td width="50%" align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sricharan-2690&theme=transparent&hide_border=true&ring=BF5AF2&fire=FF375F&currStreakLabel=0A84FF&sideLabels=86868B&dates=48484A)](https://github.com/Sricharan-2690)
+[![Streak](https://streak-stats.demolab.com/?user=Sricharan-2690&theme=transparent&hide_border=true&ring=BF5AF2&fire=FF375F&currStreakLabel=0A84FF&sideLabels=86868B&dates=48484A&background=0D1117&border_radius=16)](https://github.com/Sricharan-2690)
 
 </td>
 </tr>
@@ -477,17 +504,16 @@ YouTube + Instagram. Knowledge = Leverage.
 
 <br/>
 
-<!-- ROW 2: Top Langs + Trophies -->
-<table border="0" cellspacing="12" width="100%">
+<table border="0" width="100%" cellspacing="12">
 <tr>
-<td width="45%" align="center" valign="top">
+<td width="45%" align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sricharan-2690&layout=compact&theme=transparent&hide_border=true&title_color=F5F5F7&text_color=86868B&bg_color=00000000&langs_count=10)](https://github.com/Sricharan-2690)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sricharan-2690&layout=compact&theme=transparent&hide_border=true&title_color=F5F5F7&text_color=86868B&bg_color=0D1117&langs_count=10&border_radius=16)](https://github.com/Sricharan-2690)
 
 </td>
-<td width="55%" align="center" valign="top">
+<td width="55%" align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Sricharan-2690&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/Sricharan-2690)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Sricharan-2690&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/Sricharan-2690)
 
 </td>
 </tr>
@@ -495,78 +521,91 @@ YouTube + Instagram. Knowledge = Leverage.
 
 <br/>
 
-<!-- ROW 3: Activity Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sricharan-2690&bg_color=000000&color=BF5AF2&line=0A84FF&point=FF375F&hide_border=true&radius=8&area=true&area_color=0A84FF)](https://github.com/Sricharan-2690)
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=Sricharan-2690&bg_color=0D1117&color=BF5AF2&line=0A84FF&point=FF375F&hide_border=true&radius=8&area=true&area_color=0A84FF)](https://github.com/Sricharan-2690)
 
 </div>
 
-<br /><br />
-
 ---
 
-<!-- SNAKE ANIMATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                   SNAKE ANIMATION                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-[![Snake Animation](https://raw.githubusercontent.com/Sricharan-2690/Sricharan-2690/output/github-contribution-grid-snake-dark.svg)](https://github.com/Sricharan-2690)
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:30D15822,100:0A84FF22&height=50&text=🐍%20Contribution%20Snake&fontSize=16&fontColor=30D158&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sricharan-2690/Sricharan-2690/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sricharan-2690/Sricharan-2690/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Sricharan-2690/Sricharan-2690/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br/>
 
 *"Every square is a commit. Every commit is a decision."*
 
-<br/>
-
-![Snake Badge](https://img.shields.io/badge/Snake_Updated_Daily-GitHub_Actions-30D158?style=flat-square&logo=githubactions&logoColor=white)
+![Snake](https://img.shields.io/badge/🐍_Auto--Updates_Every_12hrs-GitHub_Actions-30D158?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
 
-<br /><br />
-
 ---
 
-<!-- CURRENTLY -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    NOW PLAYING STATUS                        -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<sub>**STATUS**</sub>
-
-## Now.
+## 🎯 Now.
 
 <br/>
 
-<table border="0" cellspacing="0" cellpadding="20" width="80%">
-<tr>
-<td align="center">
-
-![Live](https://img.shields.io/badge/🟢_LIVE-Currently_Shipping:-30D158?style=flat-square&labelColor=111111)
-
-### Next.js Portfolio v2.0
-
-`Next.js  ·  TypeScript  ·  Tailwind  ·  Framer Motion`
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:30D15833,100:0A84FF11&height=130&text=%F0%9F%9F%A2%20LIVE%20%E2%80%94%20Currently%20Shipping%3A%20Next.js%20Portfolio%20v2.0&fontSize=18&fontColor=F5F5F7&animation=twinkling&desc=Next.js%20%C2%B7%20TypeScript%20%C2%B7%20Tailwind%20%C2%B7%20Framer%20Motion&descSize=14&descColor=86868B&descAlignY=72" width="100%"/>
 
 <br/>
 
-![Progress](https://img.shields.io/badge/Progress-70%25-30D158?style=for-the-badge&logo=rocket&logoColor=white)
-
-</td>
-</tr>
-</table>
+![Progress](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░_Progress-70%25-30D158?style=for-the-badge&logo=rocket&logoColor=white)
 
 <br/>
 
-[![Ship](https://img.shields.io/badge/🚀_Ship_Portfolio_v2-0A84FF?style=for-the-badge)](https://www.sricharan.me)
-[![DL](https://img.shields.io/badge/🤖_Master_Deep_Learning-BF5AF2?style=for-the-badge)](https://github.com/Sricharan-2690)
-[![OSS](https://img.shields.io/badge/🌍_First_OSS_Merge-30D158?style=for-the-badge)](https://github.com/Sricharan-2690)
-[![Stars](https://img.shields.io/badge/⭐_100_GitHub_Stars-FF9F0A?style=for-the-badge)](https://github.com/Sricharan-2690)
-[![Role](https://img.shields.io/badge/💼_Full--Time_Role_2026-FF375F?style=for-the-badge)](https://www.linkedin.com/in/sri-charan-katamoni-00830a290/)
+**2026 Goals**
+
+<br/>
+
+[![S1](https://img.shields.io/badge/🚀_Ship_Portfolio_v2-0A84FF?style=for-the-badge)](https://www.sricharan.me)
+[![S2](https://img.shields.io/badge/🤖_Master_Deep_Learning-BF5AF2?style=for-the-badge)](https://github.com/Sricharan-2690)
+[![S3](https://img.shields.io/badge/🌍_First_OSS_Merge-30D158?style=for-the-badge)](https://github.com/Sricharan-2690)
+[![S4](https://img.shields.io/badge/⭐_100_GitHub_Stars-FF9F0A?style=for-the-badge)](https://github.com/Sricharan-2690)
+[![S5](https://img.shields.io/badge/💼_Full--Time_Role_2026-FF375F?style=for-the-badge)](https://www.linkedin.com/in/sri-charan-katamoni-00830a290/)
 
 </div>
 
-<br /><br />
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      QUOTE BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
+
+</div>
 
 ---
 
-<!-- FOOTER CTA -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       FOOTER CTA                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-### Let's build something
-### that matters.
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A84FF22,50:BF5AF222,100:FF375F22&height=80&text=Let%E2%80%99s%20build%20something%20that%20matters.&fontSize=22&fontColor=F5F5F7&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -583,7 +622,7 @@ YouTube + Instagram. Knowledge = Leverage.
 
 ---
 
-<sub>Designed with ⌘ + obsession &nbsp;·&nbsp; K Sri Charan Goud &nbsp;·&nbsp; Hyderabad, India &nbsp;·&nbsp; katamonisricharan@gmail.com &nbsp;·&nbsp; 2026</sub>
+<sub>Designed with ⌘ + obsession &nbsp;·&nbsp; K Sri Charan Goud &nbsp;·&nbsp; Hyderabad, India &nbsp;·&nbsp; 2026</sub>
 
 <br/>
 
@@ -591,5 +630,4 @@ YouTube + Instagram. Knowledge = Leverage.
 
 </div>
 
-<!-- FOOTER WAVE -->
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF375F,50:BF5AF2,100:0A84FF&height=120&section=footer&animation=twinkling)](https://www.sricharan.me)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF375F,33:BF5AF2,66:0A84FF,100:30D158&height=140&section=footer&animation=twinkling" />
